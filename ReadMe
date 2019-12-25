@@ -1,0 +1,4 @@
+This is a simple 2D Candy Crush game which i created for my semester project. 
+Coded in C++
+b-slayer.sln is the project executable file which can be opened using Visual Studio
+cookie-crush.cpp and game-release.cpp contain all the headers and relevant code
